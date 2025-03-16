@@ -1,7 +1,7 @@
 # Israt_Jahan
 
 <h1 align="center">Hi 👋, I'm ISRAT JAHAN</h1>
-<h3 align="center">>A Passionate AI Enthusiast,Machine Learning,Deep Learning, Image Processing & Big Data Analyst from Bangladesh</h3>
+<h3 align="center">A Passionate AI Enthusiast,Machine Learning,Deep Learning, Image Processing & Big Data Analyst from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zafor158" alt="zafor158" /></a> </p>
 
