@@ -213,27 +213,46 @@
 
 ---
 
-## 📈 GitHub Stats
-
+<!-- GitHub Streak & Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isratjahan829&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%2C%20Y" alt="GitHub Streak" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=isratjahan829&show_icons=true&locale=en&theme=dracula&hide=prs_merged,issues,contribs&border_radius=10" alt="GitHub Stats" width="400" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=isratjahan829&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%2C%20Y" 
+    alt="GitHub Streak" 
+    width="400" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=isratjahan829&show_icons=true&locale=en&theme=dracula&hide=prs_merged,issues,contribs&hide_border=true&border_radius=10" 
+    alt="GitHub Stats" 
+    width="400" 
+  />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isratjahan829&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=10"
-    alt="Top Languages"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isratjahan829&layout=compact&theme=dracula&langs_count=10&hide_border=true&border_radius=10" 
+    alt="Top Languages" 
     width="400"
   />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isratjahan829&bg_color=1a1b27&color=ffffff&line=bb2acf&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=isratjahan829&bg_color=1a1b27&color=ffffff&line=bb2acf&point=ffffff&area=true&hide_border=true" 
+    alt="GitHub Activity Graph" 
+  />
 </p>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+
+<!-- Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img 
+      alt="Snake animation" 
+      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
