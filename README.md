@@ -215,11 +215,6 @@
 
 ## 📈 GitHub Stats
 <<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/dist/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/dist/github-snake.svg" />
-  </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isratjahan829&theme=dracula" alt="GitHub Streak" width="400" />
 </p>
 
