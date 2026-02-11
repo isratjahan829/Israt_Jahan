@@ -214,7 +214,6 @@
 ---
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isratjahan829&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%2C%20Y" alt="GitHub Streak" width="400" />
@@ -222,8 +221,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isratjahan829&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=10&hide_border=true&border_radius=10&card_width=400" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isratjahan829&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=10"
+    alt="Top Languages"
+    width="400"
+  />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isratjahan829&bg_color=1a1b27&color=ffffff&line=bb2acf&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
