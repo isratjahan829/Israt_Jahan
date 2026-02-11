@@ -224,8 +224,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=isratjahan829&bg_color=1a1b27&color=ffffff&line=bb2acf&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isratjahan829&theme=dracula&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/snake.svg" alt="Snake animation" />
