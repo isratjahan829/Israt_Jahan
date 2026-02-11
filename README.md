@@ -25,11 +25,11 @@
 ---
 
 ## 👩‍💻 About Me
-- 🌱 Currently pursuing **M.Sc. in Computer Science & Engineering (Major: Data Science)** at East West University (CGPA: 3.80/4.00).
-- 🎓 **B.Sc. in Computer Science & Engineering (Major: Data Science)** from East West University (CGPA: 3.54/4.00).
+- 🌱 Currently pursuing **M.Sc. in Computer Science & Engineering (Major: Data Science)** at East West University.
+- 🎓 **B.Sc. in Computer Science & Engineering (Major: Data Science)** from East West University.
 - 🔬 **Research Interests**: Bioinformatics, Multimodal Learning, Explainable AI (XAI), Machine Learning, Deep Learning, Computer Vision, Biomedical Nanotechnology, NLP, Transformers, Causal Inference, AI in Cybersecurity & Data Privacy, Medical Imaging.
 - 🏆 **Awards**: Best Paper Awards at ICIDA 2025 & ICDMIS 2024, Champion at National Data War Competition 2025, Razia Samad Merit Scholarship (2022–2025).
-- 📫 Reach me at: **isratjahan2744829@gmail.com** | Phone: +880 1613996051
+- 📫 Reach me at: **isratjahan2744829@gmail.com**
 - 👨‍💻 All projects available at: [My GitHub Repositories](https://github.com/isratjahan829?tab=repositories)
 
 ---
