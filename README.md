@@ -214,28 +214,19 @@
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isratjahan829&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isratjahan829&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isratjahan829&show_icons=true&locale=en&theme=dracula&hide=prs_merged,issues" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isratjahan829&theme=dracula" alt="GitHub Streak" width="400" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isratjahan829&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isratjahan829&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isratjahan829&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isratjahan829&bg_color=1a1b27&color=ffffff&line=bb2acf&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isratjahan829&theme=radical" alt="GitHub Trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isratjahan829&theme=dracula&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/snake.svg" alt="Snake animation" />
 </p>
-
----
-
-<h3 align="center">Let's Connect and Collaborate on Innovative AI Projects! 🚀</h3>
