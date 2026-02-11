@@ -214,9 +214,15 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isratjahan829&show_icons=true&locale=en&theme=dracula&hide=prs_merged,issues" alt="GitHub Stats" width="400" />
+<<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/dist/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/dist/github-snake.svg" />
+  </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isratjahan829&theme=dracula" alt="GitHub Streak" width="400" />
+</p>
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isratjahan829&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
@@ -229,7 +235,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
     <img alt="Snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/isratjahan829/isratjahan829/output/snake.svg" alt="Snake animation" />
 </p>
