@@ -220,29 +220,7 @@
     alt="GitHub Streak"
     width="400"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=isratjahan829&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-    width="400"
-  />
-</p>
 
-<!-- Top Languages (FIXED endpoint) -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isratjahan829&layout=compact&theme=dracula&hide_border=true&border_radius=10&langs_count=10"
-    alt="Top Languages"
-    width="400"
-  />
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=isratjahan829&bg_color=1a1b27&color=ffffff&line=bb2acf&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
 
 <!-- Snake -->
 <p align="center">
