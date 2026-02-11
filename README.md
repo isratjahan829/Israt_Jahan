@@ -1,4 +1,3 @@
-# Israt Jahan
 
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/machine-learning-ai-artificial-intelligence-deep-learning-big-data-algorithm-neural-network-concept_127544-3654.jpg" alt="AI Banner" width="100%">
