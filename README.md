@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://img.freepik.com/premium-vector/machine-learning-ai-artificial-intelligence-deep-learning-big-data-algorithm-neural-network-concept_127544-3654.jpg" alt="AI Banner" width="50%">
-</p>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/147199029?v=4" alt="Profile Picture" width="100" height="100" style="border-radius: 50%;">
